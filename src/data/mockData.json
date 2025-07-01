@@ -1,0 +1,34 @@
+[
+  {
+    "categoryName": "Clothes",
+    "products": [
+      {
+        "productName": "Jeans",
+        "brands": [
+          { "brandName": "Jeans X", "salesData": [65, 320, 25, 560] },
+          { "brandName": "Jeans Y", "salesData": [150, 180, 210, 190] },
+          { "brandName": "Jeans Z", "salesData": [80, 90, 85, 110] }
+        ]
+      },
+      {
+        "productName": "T-shirts",
+        "brands": [
+          { "brandName": "Shirt Brand", "salesData": [200, 250, 300, 280] },
+          { "brandName": "Style Brand", "salesData": [180, 220, 190, 240] }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "Shoes",
+    "products": [
+      {
+        "productName": "Sneakers",
+        "brands": [
+          { "brandName": "Vanz", "salesData": [400, 500, 350, 600] },
+          { "brandName": "Nikey", "salesData": [300, 280, 410, 390] }
+        ]
+      }
+    ]
+  }
+]
